@@ -1,0 +1,14 @@
+**/.idea/
+.idea/
+.vscode/
+*.iml
+**/*.iml
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+node_modules/
+dist/
+cmake-build-debug/
+
